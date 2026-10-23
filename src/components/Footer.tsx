@@ -1,7 +1,7 @@
 import { Instagram, MessageCircle, Mail, ArrowUp, Heart } from 'lucide-react';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
 
-const WHATSAPP_URL = 'https://wa.me/5538999617452';
+const WHATSAPP_URL = 'https://wa.me/5538999615472';
 const EMAIL = 'contato@codeboost.com.br';
 const INSTAGRAM_URL = 'https://instagram.com/codeboost';
 const FOOTER_LINKS = [
