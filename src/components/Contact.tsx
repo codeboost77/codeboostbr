@@ -3,7 +3,7 @@ import { Send, MessageCircle, Mail, Instagram, CheckCircle2, ArrowRight } from '
 import { useScrollReveal } from '@/hooks/useScrollReveal';
 
 // ── TROQUE AQUI pelos seus contatos reais ──
-const WHATSAPP_URL = 'https://wa.me/5538999617452'; // ← Substitua pelo seu WhatsApp
+const WHATSAPP_URL = 'https://wa.me/5538999615472'; // ← Substitua pelo seu WhatsApp
 const EMAIL = 'contato@codeboost.com.br'; // ← Substitua pelo seu e-mail
 const INSTAGRAM_URL = 'https://instagram.com/codeboost'; // ← Substitua pelo seu Instagram
 const INSTAGRAM_HANDLE = '@codeboost';
